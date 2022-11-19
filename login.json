@@ -1,4 +1,5 @@
 {
-  "status":1,
-  "uid" : "09351699889"
+  "result":1,
+  "accessToken" : "09351699889",
+  "refreshToken" : "09183797212"
 }
