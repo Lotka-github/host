@@ -175,10 +175,10 @@
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     margin-top: 99px;
-    margin-left: 18px;
-    margin-right: 18px;
+    margin-left: 33px;
+    margin-right: 33px;
   }
 
   .u-section-1 .u-countdown-1 {
@@ -197,6 +197,13 @@
     font-size: 1.25rem;
     font-weight: normal;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: iran_yekan_mobile_regular;
+  margin: 148px 110px 60px;
 }@font-face {
   font-family: 'iran_yekan_mobile_regular';
   font-style: normal;
