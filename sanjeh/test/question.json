@@ -17,6 +17,29 @@
       ]
     }
       ,
+
+      {
+        "id": "10415f45-9d5d-4c2e-sdvsdv9c5e-0de577dcbd8",
+        "text": "این یه سوال 3 گزینه ای میباشد؟",
+        "description": "باید جواب دهید",
+        "type": 2,
+        "isForceToAnswer": true,
+        "questionMultipleChoices": [
+          {
+            "text": "اولی",
+            "id": "ec3aec03-1f37-5330-2fa6-3a08a3sdv7119a9"
+          },
+          {
+            "text": "دومی",
+            "id": "ac289dfd-87a7-5054-abeb-3sdvsdva08a3sd7119a9"
+          },
+          {
+            "text": "سومی",
+            "id": "ac289dfd-87a7-5054-abeb-3sdvggxsvsdva08a3sd7119a9"
+          }
+        ]
+      }
+      ,
     {
       "id": "40f3fa11-5abb-6bcf-e3a6-3a0dfbsdvsdvsdvsdv8hjuea",
       "text": "نام و نام خانوادگی خود را بنویسید : ",
