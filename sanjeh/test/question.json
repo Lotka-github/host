@@ -172,4 +172,79 @@
       ]
     }
 
+    ,
+
+
+    {
+      "id": "40f3fa11-5abb-6bcf-edcdcdcلfefbdgerفقاggg7ec8d4ea",
+      "text": " خوشتیپ ترین فرد شرکت کیست؟ موارد زیاد است",
+      "description": "توضیحات هم حال ندارم بنویسم",
+      "type": 2,
+      "isForceToAnswer": true,
+      "questionMultipleChoices": [
+        {
+          "text": "آرمان خزایی",
+          "id": "ec3aec03-1f37-5330-2fa6-3a08afbdfbdb37119a9"
+        },
+        {
+          "text": "آقای خزایی",
+          "id": "a423e63b-07d5-550d-73dd-3addfbfbbdfb19a9"
+        },{
+          "text": "آرمان ",
+          "id": "ec3aec03-1f37-5330-2fa6-dg711ddbdfbdf9a9"
+        },
+        {
+          "text": "آرمان خزایی",
+          "id": "ec3aec03-1f37-5330-2fa6-3a08afdfggbdfbdb37119a9"
+        },
+        {
+          "text": "آقای خزایی",
+          "id": "a423e63b-07d5-550d-73dd-geargarg3adfbergbdfb19a9"
+        },{
+          "text": "آرمان ",
+          "id": "ec3aec03-1f37-53erger30-2fa6-dg71erg1dfbdf9a9"
+        },        {
+          "text": "آرمان خزایی",
+          "id": "ec3aec03-1f37-5erger330-2fa6-3a0erg8afbdfbdb37119a9"
+        },
+        {
+          "text": "آقای خزایی",
+          "id": "a423e63b-07d5-550dgerg-73dd-3aergdfbbdfb19a9"
+        },{
+          "text": "آرمان ",
+          "id": "ec3aec03-1fergerg37-5330-2fa6erg-dg711dfbdf9a9"
+        },        {
+          "text": "آرمان خزایی",
+          "id": "ec3aec03-1f37-5erg330-2fa6-erg3a0erg8afbdfbdb37119a9"
+        },
+        {
+          "text": "آقای خزایی",
+          "id": "a423e63b-07d5-550d-73dd-ergerger3adfbbdfb19a9"
+        },{
+          "text": "آرمان ",
+          "id": "ec3aec03-1f3ergerg7-5330-2fa6-dg711dfbdf9a9"
+        },        {
+          "text": "آرمان خزایی",
+          "id": "ec3aec03-1f37-5330-2ergergfa6-3a08afbdfbdb37119a9"
+        },
+        {
+          "text": "آقای خزایی",
+          "id": "a423e63b-07derg5-550d-73dd-3aergdfbbdfb19a9"
+        },{
+          "text": "آرمان ",
+          "id": "ec3aec03-1f3gergerg7-5330-ege2fa6-dg711dfbdf9a9"
+        },        {
+          "text": "آرمان خزایی",
+          "id": "ec3aec03-1f37-5330-2faergergerg6-3a08afbdfbdb37119a9"
+        },
+        {
+          "text": "آقای خزایی",
+          "id": "a423e63b-07d5-5ergergerg50d-73dd-3adfbbdfb19a9"
+        },{
+          "text": "آرمان ",
+          "id": "ec3aec03-1f37-5330-2faergergerg6-dg711dfbdf9a9"
+        }
+      ]
+    }
+
   ]
