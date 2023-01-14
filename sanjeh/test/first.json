@@ -5,28 +5,32 @@
       "evaluationId" : "kjnfdf1wd",
       "questionCount" : 29,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210" ,
+      "type":1
     },
     {
       "title" : "ارزیابی مبین جعفری",
       "evaluationId" : "nbt16541xvf",
       "questionCount" : 29,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":1
     },
     {
       "title" : "ارزیابی در مورد عماد تقی پور",
       "evaluationId" : "kjn4a48wd",
       "questionCount" : 13,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":1
     },
     {
       "title" : "ارزیابی جناب پنیر",
       "evaluationId" : "nbtdf65b4vf",
       "startDate":"876464152132",
       "questionCount" : 28,
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":1
     }
   ]
 
@@ -38,28 +42,32 @@
       "evaluationId" : "kjascn4a48wd",
       "startDate":"876464152132",
       "questionCount" : 17,
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":2
     },
     {
       "title" : "ارزیابی آنها ",
       "evaluationId" : "nbt1caca6541xvf",
       "questionCount" : 16,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":2
     },
     {
       "title" : "ارزیابی زیاد",
       "evaluationId" : "kjnfdfcas1wd",
       "questionCount" : 7,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":2
     },
     {
       "title" : "ارزیابی جناب لینچان",
       "evaluationId" : "nbtdf65scscb4vf",
       "questionCount" : 2,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":2
     }
   ]
 
@@ -72,56 +80,64 @@
       "evaluationId" : "kjn4a48wd",
       "startDate":"876464152132",
       "questionCount" : 17,
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی کارکنان تیم فنی",
       "evaluationId" : "nbt16541xvf",
       "questionCount" : 16,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی در مورد عماد تقی پور",
       "evaluationId" : "kjnfdf1wd",
       "questionCount" : 7,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی کارکنان تیم فنی",
       "evaluationId" : "nbtdf65b4vf",
       "questionCount" : 2,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی آقای جعفری",
       "evaluationId" : "kjn4a48wd",
       "startDate":"876464152132",
       "questionCount" : 17,
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی کارکنان تیم فنی",
       "evaluationId" : "nbt16541xvf",
       "questionCount" : 16,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی در مورد عماد تقی پور",
       "evaluationId" : "kjnfdf1wd",
       "questionCount" : 7,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     },
     {
       "title" : "ارزیابی کارکنان تیم فنی",
       "evaluationId" : "nbtdf65b4vf",
       "questionCount" : 2,
       "startDate":"876464152132",
-      "expireDate" : "1651443210"
+      "expireDate" : "1651443210",
+      "type":3
     }
   ]
 
