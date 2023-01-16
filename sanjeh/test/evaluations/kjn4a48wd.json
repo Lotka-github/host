@@ -2,17 +2,17 @@
   
     {
       "id": "10415f45-9d5d-4c2e-sdvsdv9c5e-0de577dcuyktjtytrjtuk7iluildhntmjtyjhbd8",
-      "text": "جناب لینچان چگونه جنابی است؟",
+      "text": "فرمانده لینچان چگونه جنابی است؟",
       "description": "باید جواب دهید",
       "type": 2,
       "isForceToAnswer": true,
       "questionMultipleChoices": [
         {
-          "text": "بلی",
+          "text": "خوب",
           "id": "ec3aec03-1f37-5330-2fa6-3a08a3sdv7119a9"
         },
         {
-          "text": "خیر",
+          "text": "بدد",
           "id": "ac289dfd-87a7-5054-abeb-3sdvsdva08a3sd7119a9"
         }
       ]
@@ -21,7 +21,7 @@
 
       {
         "id": "10415f45-9d5d-sgdg4c2e-sdvsdvsfdfg9c5SDf-0fshrde577dcbd8",
-        "text": "فرمانده لینچان کدامیک میباشد؟",
+        "text": "کدامیک میباشد؟",
         "description": "باید جواب دهید",
         "type": 2,
         "isForceToAnswer": true,
